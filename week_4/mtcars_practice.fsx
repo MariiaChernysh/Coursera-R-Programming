@@ -1,4 +1,4 @@
-## Here are some examples of how to work with mtcars dataset, which I've found in the web.
+// Here are some examples of how to work with mtcars dataset, which I've found in the web.
 ## It doesn't answer the questions of Quiz 4 in "R Programming" course directly. It is more like a tutorial that helps to understand the topic much better.
 ## Also in the sourse link you can find more complicated functions, that can be useful for other courses
 ## Source: http://wiener.math.csi.cuny.edu/Statistics/R/simpleR/stat019.html
